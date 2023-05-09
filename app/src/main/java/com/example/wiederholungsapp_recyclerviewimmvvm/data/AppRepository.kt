@@ -38,10 +38,6 @@ class AppRepository {
             Text(
                 5,
                 "abc"
-            ),
-            Text(
-                6,
-                "def"
             )
         )
         //puts our textlist into the livedata
